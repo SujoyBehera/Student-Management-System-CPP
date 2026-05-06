@@ -89,7 +89,7 @@ int main(){
             cin>>marks;
 
             people.push_back(new student(name,id,cgpa,marks));
-            cout<<"STUDENT ADDED!!!"<<endl;
+            cout<<"STUDENT INFO ADDED!"<<endl;
         }
 
         else if(choice == 2){
