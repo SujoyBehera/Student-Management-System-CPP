@@ -43,8 +43,8 @@ g++ student_management.cpp -o student_management
 
 NAME                NET ID         CGPA      MARKS
 ----------------------------------------------------
-Sujoy Behera        CS-101         8.5       920
-Ali Khan            CS-102         9.1       875
+Sujoy Behera        sb8449         8.5       920
+JOHN  WICK           jh007         9.1       875
 ```
 
 ---
